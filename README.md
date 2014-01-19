@@ -14,7 +14,7 @@ This is the icon that I use. (icns format)
    
 ###Add package control
   
-    $ wget https://sublime.wbond.net/Package%20Control.sublime-package "Package\ Control.sublime-package"; mv "Package\ Control.sublime-package" ~/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages
+    $ wget https://sublime.wbond.net/Package%20Control.sublime-package "Package\ Control.sublime-package"; mv Package\ Control.sublime-package ~/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages
 
 
 ###Remove the user folder if it is necessary
