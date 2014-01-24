@@ -1,4 +1,4 @@
 {
-	"cmd": ["sass","$file"],
+	"cmd": ["sass","$file","$file_base_name.css"],
 	"selector": "source.scss"
 }
